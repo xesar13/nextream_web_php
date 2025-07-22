@@ -11,4 +11,4 @@
         <?php include './partials/Offcanvas.php'?>
 
         <!-- Header Area Start -->
-         <?php include './partials/header.php'?>
+         <?php include './partials/header-ia.php'?>

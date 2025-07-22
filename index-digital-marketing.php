@@ -1,7 +1,7 @@
-<?php include './layouts/layoutTop2.php'?>
+<?php include './layouts/layoutTop4.php'?>
        
         <!-- Header Area Start -->
-        <header id="header-sticky" class="header-2">
+        <!--<header id="header-sticky" class="header-2">
             <div class="container">
                 <div class="mega-menu-wrapper">
                     <div class="header-main">
@@ -155,7 +155,7 @@
                     </div>
                 </div>
             </div>
-        </header>
+        </header>-->
         
         <!-- Hero Section Start -->
         <section class="hero-section hero-4">

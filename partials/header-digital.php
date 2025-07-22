@@ -1,4 +1,4 @@
-<header id="header-sticky" class="header-3">
+<header id="header-sticky" class="header-2">
             <div class="container-fluid">
                 <div class="mega-menu-wrapper">
                     <div class="header-main">
@@ -12,28 +12,27 @@
                                 <div class="main-menu">
                                     <nav id="mobile-menu">
                                         <ul>
-                                             <li>
+                                              <li>
                                                 <a href="/">Home</a>
                                             </li>
-
                                             <li class="has-dropdown active menu-thumb">
-                                                <a href="#">
+                                                <a href="#services">
                                                 Features 
                                                 <i class="fas fa-angle-down"></i>
                                                 </a>
                                                 <ul class="submenu has-homemenu" style="max-width: 500px;">
                                                     <li class="border-none">
-                                                        <div class="row g-4 flex-nowrap">
+                                                        <div class="row g-4 flex-nowrap">                                                      
                                                             <div class="col-xl-6 homemenu">
                                                                 <div class="homemenu-thumb">
                                                                     <img src="assets/img/header/home-3.jpg" alt="img">
                                                                     <div class="demo-button">
-                                                                        <a href="index-digital-marketing.php" class="theme-btn">Let's Start</a>
+                                                                        <a href="/" class="theme-btn">Let's Start</a>
                                                                     </div>
                                                                 </div>
                                                                 <div class="homemenu-content text-center">
                                                                     <h4 class="homemenu-title">
-                                                                        Marketing Digital
+                                                                        Grow your Business
                                                                     </h4>
                                                                 </div>
                                                             </div>
@@ -46,10 +45,11 @@
                                                                 </div>
                                                                 <div class="homemenu-content text-center">
                                                                     <h4 class="homemenu-title">
-                                                                        IA Tools
+                                                                       IA Tools
                                                                     </h4>
                                                                 </div>
                                                             </div>
+                                                           
                                                         </div>
                                                     </li>
                                                 </ul>
@@ -60,70 +60,24 @@
                                                 <i class="fas fa-angle-down"></i>
                                                 </a>
                                                 <ul class="submenu">
-                                                    <li><a href="index.php">Home 01</a></li>
-                                                    <li><a href="index-2.php">Home 02</a></li>
+                                                  
                                                     <li><a href="index-3.php">Home 03</a></li>
-                                                    <li><a href="index-4.php">Home 04</a></li>
-                                                    <li><a href="index-5.php">Home 05</a></li>
+                                                   
                                                     <li><a href="index-6.php">Home 06</a></li>
                                                 </ul>
                                             </li>-->
-                                            <li>
-                                                <a href="service-details.php">
-                                                    Services
-                                                    <i class="fas fa-angle-down"></i>
-                                                </a>
-                                                <ul class="submenu">
-                                                    <li><a href="service.php">Services</a></li>
-                                                    <li><a href="service-details.php">Services Details</a></li>
-                                                </ul>
-                                            </li>
                                           
-                                            <!--  <li class="has-dropdown">
-                                                <a href="news.php">
-                                                     Pages
-                                                     <i class="fas fa-angle-down"></i>
-                                                </a>
-                                                <ul class="submenu">
-                                                    <li class="has-dropdown">
-                                                        <a href="project-details.php">
-                                                            Projects
-                                                        <i class="fas fa-angle-down"></i>
-                                                        </a>
-                                                        <ul class="submenu">
-                                                            <li><a href="project.php">Projects</a></li>
-                                                            <li><a href="project-details.php">Project Details</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li class="has-dropdown">
-                                                        <a href="team-details.php">
-                                                            Team
-                                                        <i class="fas fa-angle-down"></i>
-                                                        </a>
-                                                        <ul class="submenu">
-                                                            <li><a href="team.php">Team</a></li>
-                                                            <li><a href="team-details.php">Team Details</a></li>
-                                                        </ul>
-                                                    </li>
-                                                   
-                                                    <li><a href="pricing.php">Pricing Table</a></li>
-                                                </ul>
-                                            </li>
-                                          <li>
-                                                <a href="news.php">
-                                                    Blog
-                                                    <i class="fas fa-angle-down"></i>
-                                                </a>
-                                                <ul class="submenu">
-                                                    <li><a href="news.php">Blog </a></li>
-                                                    <li><a href="news-details.php">Blog Details</a></li>
-                                                </ul>
-                                            </li>-->
-                                                                                          <li>
-                                                <a href="about.php">About</a>
+                                             <li>
+                                                <a href="#about">About</a>
                                             </li>
                                             <li>
-                                                <a href="contact.php">Contact</a>
+                                                <a href="#services">Services</a>
+                                            </li>
+                                            <li>
+                                                <a href="#blog">Blog</a>
+                                            </li>
+                                            <li>
+                                                <a href="#contact">Contact</a>
                                             </li>
                                         </ul>
                                     </nav>

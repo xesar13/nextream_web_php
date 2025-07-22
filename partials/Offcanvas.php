@@ -17,7 +17,7 @@
 
                         <div class="mobile-menu fix mb-3"></div>
                         <p class="text d-none d-xl-block mb-5">
-                            Nullam dignissim, ante scelerisque the  is euismod fermentum odio sem semper the is erat, a feugiat leo urna eget eros. Duis Aenean a imperdiet risus.
+                            Welcome to our website! We are dedicated to providing you with the best services and solutions to meet your needs. Explore our offerings and feel free to contact us for any inquiries.
                         </p>
                         <div class="offcanvas__contact">
                             <h4>Contact Info</h4>
