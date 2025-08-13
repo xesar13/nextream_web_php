@@ -48,7 +48,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="contact.php"> 
+                                        <a href="privacy.php"> 
                                             Privacy & Setting
                                         </a>
                                     </li>
@@ -152,7 +152,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="contact.php">
+                                    <a href="privacy.php">
                                         Privacy
                                     </a>
                                 </li>

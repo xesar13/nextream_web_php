@@ -417,8 +417,7 @@
                                 <span class="sub-title">Step 01</span>
                                 <h3>Discovery & Analysis</h3>
                                 <p>
-                                    Sed ut perspiciatis unde omnis iste natus
-                                    error <br> voluptatem accusantium
+                                    Discovery & Analysis is the first step in our process, where we gather information about your business, <br> industry, and target audience. This helps us understand your unique needs and challenges.
                                 </p>
                             </div>
                         </div>
@@ -439,8 +438,7 @@
                                 <span class="sub-title">Step 02</span>
                                 <h3>Competitor Analysis</h3>
                                 <p>
-                                    Sed ut perspiciatis unde omnis iste natus
-                                    error <br> voluptatem accusantium
+                                    Competitor Analysis is the second step in our process, where we analyze your competitors' strengths and weaknesses. <br>This helps us identify opportunities for your business and develop a competitive strategy.
                                 </p>
                             </div>
                             <div class="icon">
@@ -457,8 +455,7 @@
                                 <span class="sub-title">Step 03</span>
                                 <h3>Strategy & Execution</h3>
                                 <p>
-                                    Sed ut perspiciatis unde omnis iste natus
-                                    error <br> voluptatem accusantium
+                                    Strategy & Execution is the third step in our process, where we develop a tailored marketing strategy based on the <br>insights gathered in the previous steps. We then execute the plan to achieve your business goals.
                                 </p>
                             </div>
                         </div>
@@ -479,8 +476,7 @@
                                 <span class="sub-title">Step 04</span>
                                 <h3>Get 3x Results</h3>
                                 <p>
-                                    Sed ut perspiciatis unde omnis iste natus
-                                    error <br> voluptatem accusantium
+                                    Our proven process is designed to deliver results. <br>By following these steps, we can help you achieve 3x the results compared to traditional marketing methods.
                                 </p>
                             </div>
                             <div class="icon">
@@ -517,8 +513,7 @@
                                     </div>
                                 </div>
                                 <p>
-                                    Sed ut perspiciatis unde omnis natus error sit voluptatem accusanti doloremque
-                                    laudantium, totam rem aperiame
+                                    Our team has extensive experience in digital marketing and can help you build your brand and reach your target audience effectively.
                                 </p>
                                 <div class="star">
                                     <i class="fas fa-star"></i>
@@ -540,8 +535,7 @@
                                     </div>
                                 </div>
                                 <p>
-                                    Sed ut perspiciatis unde omnis natus error sit voluptatem accusanti doloremque
-                                    laudantium, totam rem aperiame
+                                    Our team has extensive experience in digital marketing and can help you build your brand and reach your target audience effectively.
                                 </p>
                                 <div class="star">
                                     <i class="fas fa-star"></i>
@@ -563,8 +557,7 @@
                                     </div>
                                 </div>
                                 <p>
-                                    Sed ut perspiciatis unde omnis natus error sit voluptatem accusanti doloremque
-                                    laudantium, totam rem aperiame
+                                    Our team has extensive experience in digital marketing and can help you build your brand and reach your target audience effectively.
                                 </p>
                                 <div class="star">
                                     <i class="fas fa-star"></i>
@@ -586,8 +579,7 @@
                                     </div>
                                 </div>
                                 <p>
-                                    Sed ut perspiciatis unde omnis natus error sit voluptatem accusanti doloremque
-                                    laudantium, totam rem aperiame
+                                    Our team has extensive experience in digital marketing and can help you build your brand and reach your target audience effectively.
                                 </p>
                                 <div class="star">
                                     <i class="fas fa-star"></i>
@@ -613,8 +605,7 @@
                                     </div>
                                 </div>
                                 <p>
-                                    Sed ut perspiciatis unde omnis natus error sit voluptatem accusanti doloremque
-                                    laudantium, totam rem aperiame
+                                    Our team has extensive experience in digital marketing and can help you build your brand and reach your target audience effectively.
                                 </p>
                                 <div class="star">
                                     <i class="fas fa-star"></i>
@@ -636,8 +627,7 @@
                                     </div>
                                 </div>
                                 <p>
-                                    Sed ut perspiciatis unde omnis natus error sit voluptatem accusanti doloremque
-                                    laudantium, totam rem aperiame
+                                    Our team has extensive experience in digital marketing and can help you build your brand and reach your target audience effectively.
                                 </p>
                                 <div class="star">
                                     <i class="fas fa-star"></i>
@@ -659,8 +649,7 @@
                                     </div>
                                 </div>
                                 <p>
-                                    Sed ut perspiciatis unde omnis natus error sit voluptatem accusanti doloremque
-                                    laudantium, totam rem aperiame
+                                    Our team has extensive experience in digital marketing and can help you build your brand and reach your target audience effectively.
                                 </p>
                                 <div class="star">
                                     <i class="fas fa-star"></i>
@@ -682,8 +671,7 @@
                                     </div>
                                 </div>
                                 <p>
-                                    Sed ut perspiciatis unde omnis natus error sit voluptatem accusanti doloremque
-                                    laudantium, totam rem aperiame
+                                    Our team has extensive experience in digital marketing and can help you build your brand and reach your target audience effectively.
                                 </p>
                                 <div class="star">
                                     <i class="fas fa-star"></i>
@@ -724,7 +712,7 @@
                                         </h4>
                                         <div id="faq1" class="accordion-collapse collapse" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan tiueaque quae abillo inventore veritatis et quasi architecto beatae vitae dicta explicabo voluptatem voluptas aspernatur
+                                                Our team has extensive experience in digital marketing and can help you build your brand and reach your target audience effectively.
                                             </div>
                                         </div>
                                     </div>
@@ -736,7 +724,7 @@
                                         </h4>
                                         <div id="faq2" class="accordion-collapse collapse show" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan tiueaque quae abillo inventore veritatis et quasi architecto beatae vitae dicta explicabo voluptatem voluptas aspernatur
+                                                Our team of experts is ready to help you achieve your marketing goals and drive results.
                                             </div>
                                         </div>
                                     </div>
@@ -748,7 +736,7 @@
                                         </h4>
                                         <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan tiueaque quae abillo inventore veritatis et quasi architecto beatae vitae dicta explicabo voluptatem voluptas aspernatur
+                                                Our team has extensive experience in SEO optimization and can help you improve your website's visibility and ranking on search engines.
                                             </div>
                                         </div>
                                     </div>
@@ -760,7 +748,7 @@
                                         </h4>
                                         <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan tiueaque quae abillo inventore veritatis et quasi architecto beatae vitae dicta explicabo voluptatem voluptas aspernatur
+                                                Yes, we have a team of experienced professionals who are experts in their respective fields. They work collaboratively to deliver the best results for our clients.
                                             </div>
                                         </div>
                                     </div>
@@ -772,7 +760,7 @@
                                         </h4>
                                         <div id="faq5" class="accordion-collapse collapse" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan tiueaque quae abillo inventore veritatis et quasi architecto beatae vitae dicta explicabo voluptatem voluptas aspernatur
+                                                Our team has worked with clients from various countries, helping them achieve their digital marketing goals and expand their reach in the global market.
                                             </div>
                                         </div>
                                     </div>
@@ -875,7 +863,7 @@
                             </h2>
                         </div>
                         <p class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-                            Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium <br> doloremque laudantium, totam rem aperiam, eaque ipsa quae
+                            Our team of experts is ready to help you achieve your marketing goals and drive results.
                         </p>
                         <a href="contact.php" class="theme-btn mt-4 wow fadeInUp" data-wow-delay=".3s">
                             Get A Quote
@@ -886,151 +874,6 @@
             </div>
         </section>
 
-        <!-- Footer Section Start -->
-        <footer class="footer-section footer-bg fix">
-            <div class="color-shape">
-                <img src="assets/img/footer-color-shape.png" alt="shape-img">
-            </div>
-            <div class="color-shape-2">
-                <img src="assets/img/footer-color-shape-2.png" alt="shape-img">
-            </div>
-            <div class="container">
-                <div class="footer-widgets-wrapper">
-                    <div class="row">
-                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".2s">
-                            <div class="single-footer-widget">
-                                <div class="widget-head">
-                                    <a href="index.php">
-                                        <img src="assets/img/logo/white-logo.svg" alt="logo-img">
-                                    </a>
-                                </div>
-                                <div class="footer-content">
-                                    <p>
-                                        Sed perspiciatis unde omnis natus
-                                        doloremque laudantium totae
-                                    </p>
-                                    <div class="social-icon d-flex align-items-center">
-                                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-vimeo-v"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6 ps-lg-5 wow fadeInUp" data-wow-delay=".4s">
-                            <div class="single-footer-widget">
-                                <div class="widget-head">
-                                    <h4>Quick Link</h4>
-                                </div>
-                                <ul class="list-items">
-                                    <li>
-                                        <a href="service-details.php"> 
-                                            Popular Services
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="team-details.php"> 
-                                            Team Member
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="contact.php"> 
-                                            Privacy & Setting
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="pricing.php"> 
-                                            Pricing Package
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".6s">
-                            <div class="single-footer-widget">
-                                <div class="widget-head">
-                                    <h4>Get In Touch</h4>
-                                </div>
-                                <div class="contact-info-area">
-                                    <div class="contact-items color-style-2">
-                                        <div class="icon">
-                                            <i class="fas fa-map-marker-alt"></i>
-                                        </div>
-                                        <div class="content">
-                                            <p>
-                                                55 Main Street, 2nd block <br>
-                                                Malborne, Australia
-                                            </p>
-                                        </div>
-                                    </div>
-                                    <div class="contact-items color-style-2">
-                                        <div class="icon">
-                                            <i class="fas fa-envelope"></i>
-                                        </div>
-                                        <div class="content">
-                                            <a href="mailto:info@example.com" class="link">info@example.com</a>
-                                        </div>
-                                    </div>
-                                    <div class="contact-items color-style-2">
-                                        <div class="icon">
-                                            <i class="fas fa-phone-alt"></i>
-                                        </div>
-                                        <div class="content">
-                                            <h4><a href="tel:00012345688">+000 (123) 456 88</a></h4>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6 ps-lg-2 wow fadeInUp" data-wow-delay=".8s">
-                            <div class="single-footer-widget">
-                                <div class="widget-head">
-                                    <h4>Newsletter</h4>
-                                </div>
-                                <div class="footer-content">
-                                    <p>Get more update to join Us</p>
-                                    <div class="footer-input">
-                                        <input type="email" id="email" placeholder="Your Email">
-                                        <button class="newsletter-btn" type="submit">
-                                            <i class="far fa-arrow-right"></i>
-                                        </button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="footer-bottom style-2">
-                <div class="container">
-                    <div class="footer-wrapper d-flex align-items-center justify-content-between pb-0">
-                        <ul class="footer-menu">
-                            <li>
-                                <a href="faq.php">
-                                    FAQs
-                                </a>
-                            </li>
-                            <li>
-                                <a href="about.php">
-                                    Company
-                                </a>
-                            </li>
-                            <li>
-                                <a href="contact.php">
-                                    Privacy
-                                </a>
-                            </li>
-                        </ul>
-                        <a href="#" id="scrollUp" class="scroll-icon">
-                            <i class="far fa-angle-double-up"></i>
-                        </a>
-                        <p>
-                            © <a href="index.php">2024</a> All Rights Reserved
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </footer>
+      
 
-<?php include './layouts/layoutBottom2.php'?>
+<?php include './layouts/layoutBottom3.php'?>

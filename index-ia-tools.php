@@ -745,7 +745,7 @@
                                         </h4>
                                         <div id="faq1" class="accordion-collapse collapse" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan tiueaque quae abillo inventore veritatis et quasi architecto beatae vitae dicta explicabo voluptatem voluptas aspernatur
+                                                We need digital marketing to build our business because it helps us reach a larger audience, engage with potential customers, and ultimately drive sales. In today's digital age, having a strong online presence is crucial for success.
                                             </div>
                                         </div>
                                     </div>
@@ -757,7 +757,7 @@
                                         </h4>
                                         <div id="faq2" class="accordion-collapse collapse show" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan tiueaque quae abillo inventore veritatis et quasi architecto beatae vitae dicta explicabo voluptatem voluptas aspernatur
+                                                To increase web traffic, we can implement various strategies such as optimizing our website for search engines (SEO), creating high-quality content, utilizing social media platforms, and running targeted advertising campaigns. Additionally, engaging with our audience through email marketing and building backlinks can also help drive more visitors to our site.
                                             </div>
                                         </div>
                                     </div>
@@ -769,7 +769,7 @@
                                         </h4>
                                         <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan tiueaque quae abillo inventore veritatis et quasi architecto beatae vitae dicta explicabo voluptatem voluptas aspernatur
+                                                To develop SEO optimization, we should focus on keyword research, on-page optimization (such as meta tags and content structure), technical SEO (ensuring our website is crawlable and fast), and off-page strategies like link building. Regularly updating content and staying informed about SEO trends is also crucial for maintaining and improving our search rankings.
                                             </div>
                                         </div>
                                     </div>
@@ -781,7 +781,7 @@
                                         </h4>
                                         <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan tiueaque quae abillo inventore veritatis et quasi architecto beatae vitae dicta explicabo voluptatem voluptas aspernatur
+                                                Yes, we have a team of experienced professionals who are experts in their respective fields. Our team is dedicated to delivering high-quality work and ensuring client satisfaction.
                                             </div>
                                         </div>
                                     </div>
@@ -793,7 +793,7 @@
                                         </h4>
                                         <div id="faq5" class="accordion-collapse collapse" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan tiueaque quae abillo inventore veritatis et quasi architecto beatae vitae dicta explicabo voluptatem voluptas aspernatur
+                                                Yes, we have a global customer base and have worked with clients from various countries and industries. Our team is experienced in adapting our services to meet the unique needs of clients around the world.
                                             </div>
                                         </div>
                                     </div>
@@ -813,7 +813,7 @@
                                         </h4>
                                         <div id="faq6" class="accordion-collapse collapse" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan tiueaque quae abillo inventore veritatis et quasi architecto beatae vitae dicta explicabo voluptatem voluptas aspernatur
+                                                Bias in AI algorithms can be addressed through various methods, including diversifying training data, implementing fairness constraints, and conducting regular audits for biased outcomes. Additionally, involving a diverse group of stakeholders in the development process can help identify and mitigate potential biases.
                                             </div>
                                         </div>
                                     </div>
@@ -825,7 +825,7 @@
                                         </h4>
                                         <div id="faq7" class="accordion-collapse collapse" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan tiueaque quae abillo inventore veritatis et quasi architecto beatae vitae dicta explicabo voluptatem voluptas aspernatur
+                                                AI (Artificial Intelligence) and machine learning are related but distinct concepts. AI refers to the broader concept of machines being able to carry out tasks in a way that we would consider "smart". Machine learning, on the other hand, is a subset of AI that focuses on the idea that systems can learn from data, improve their performance over time without being explicitly programmed, and make decisions based on that data.
                                             </div>
                                         </div>
                                     </div>
@@ -837,7 +837,7 @@
                                         </h4>
                                         <div id="faq8" class="accordion-collapse collapse" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan tiueaque quae abillo inventore veritatis et quasi architecto beatae vitae dicta explicabo voluptatem voluptas aspernatur
+                                                SEO optimization involves several key strategies, including keyword research, on-page optimization (such as meta tags and content structure), technical SEO (ensuring your website is crawlable and fast), and off-page strategies like link building. Regularly updating content and staying informed about SEO trends is also crucial for maintaining and improving search rankings.
                                             </div>
                                         </div>
                                     </div>
@@ -849,7 +849,7 @@
                                         </h4>
                                         <div id="faq9" class="accordion-collapse collapse" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan tiueaque quae abillo inventore veritatis et quasi architecto beatae vitae dicta explicabo voluptatem voluptas aspernatur
+                                                Yes, AI has the potential to automate certain tasks and processes, which may lead to job displacement in some sectors. However, it can also create new job opportunities and enhance existing roles by taking over repetitive tasks, allowing humans to focus on more complex and creative aspects of their work.
                                             </div>
                                         </div>
                                     </div>
@@ -861,7 +861,7 @@
                                         </h4>
                                         <div id="faq10" class="accordion-collapse collapse" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan tiueaque quae abillo inventore veritatis et quasi architecto beatae vitae dicta explicabo voluptatem voluptas aspernatur
+                                                There are many resources available for learning about AI and entering the field. Online courses, such as those offered by Coursera, edX, and Udacity, provide a solid foundation in AI concepts and techniques. Additionally, reading books, attending workshops, and participating in AI-related communities can help you gain practical experience and network with professionals in the field.
                                             </div>
                                         </div>
                                     </div>
@@ -939,183 +939,6 @@
             </div>
         </div>
 
-        <!-- Footer Section Start -->
-        <footer class="footer-section footer-bg">
-            <div class="robot-shape float-bob-y">
-                <img src="assets/img/home-6/robot-3.png" alt="shape-img">
-            </div>
-            <div class="robot-shape-2 float-bob-y">
-                <img src="assets/img/home-6/robot-4.png" alt="shape-img">
-            </div>
-            <div class="container">
-                <div class="discussed-items">
-                    <div class="footer-logo wow fadeInUp" data-wow-delay=".3s">
-                        <a href="index.php">
-                            <img src="assets/img/logo/white-logo.svg" alt="logo-img">
-                        </a>
-                    </div>
-                    <div class="discussed-content wow fadeInUp" data-wow-delay=".5s">
-                        <h2>Let’s Discussed About <span>Your Projects</span></h2>
-                        <a href="contact.php" class="theme-btn hover-white">Get Started <i class="far fa-arrow-right"></i></a>
-                    </div>
-                </div>
-                <div class="footer-widgets-wrapper">
-                    <div class="row">
-                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".2s">
-                            <div class="single-footer-widget">
-                                <div class="widget-head">
-                                    <h4>About Us</h4>
-                                </div>
-                                <div class="footer-content">
-                                    <p>
-                                        Sed perspiciatis unde omnis natus
-                                        doloremque laudantium totae
-                                    </p>
-                                    <div class="social-icon d-flex align-items-center">
-                                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-vimeo-v"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6 ps-lg-5 wow fadeInUp" data-wow-delay=".4s">
-                            <div class="single-footer-widget">
-                                <div class="widget-head">
-                                    <h4>Quick Link</h4>
-                                </div>
-                                <ul class="list-items">
-                                    <li>
-                                        <a href="service-details.php"> 
-                                            Popular Services
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="team-details.php"> 
-                                            Team Member
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="contact.php"> 
-                                            Privacy & Setting
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="pricing.php"> 
-                                            Pricing Package
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6 ps-lg-1 wow fadeInUp" data-wow-delay=".6s">
-                            <div class="single-footer-widget">
-                                <div class="widget-head">
-                                    <h4>Get In Touch</h4>
-                                </div>
-                                <div class="contact-info-area">
-                                    <div class="contact-items">
-                                        <div class="icon">
-                                            <i class="fas fa-map-marker-alt"></i>
-                                        </div>
-                                        <div class="content">
-                                            <p>
-                                                55 Main Street, 2nd block <br>
-                                                Malborne, Australia
-                                            </p>
-                                        </div>
-                                    </div>
-                                    <div class="contact-items">
-                                        <div class="icon">
-                                            <i class="fas fa-envelope"></i>
-                                        </div>
-                                        <div class="content">
-                                            <a href="mailto:info@example.com" class="link">info@example.com</a>
-                                        </div>
-                                    </div>
-                                    <div class="contact-items">
-                                        <div class="icon">
-                                            <i class="fas fa-phone-alt"></i>
-                                        </div>
-                                        <div class="content">
-                                            <h4><a href="tel:00012345688">+000 (123) 456 88</a></h4>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".8s">
-                            <div class="single-footer-widget">
-                                <div class="widget-head">
-                                    <h4>Recent News</h4>
-                                </div>
-                                <div class="recent-post-area">
-                                    <div class="recent-post-items">
-                                        <div class="thumb bg-cover" style="background-image: url('assets/img/news/pp1.png');"></div>
-                                        <div class="content">
-                                            <ul class="post-date">
-                                                <li>
-                                                    Nov 25, 2024
-                                                </li>
-                                            </ul>
-                                            <h6>
-                                                <a href="news-details.php">
-                                                    How achieve more <br> your nine to five
-                                                </a>
-                                            </h6>
-                                        </div>
-                                    </div>
-                                    <div class="recent-post-items mb-0">
-                                        <div class="thumb bg-cover" style="background-image: url('assets/img/news/pp2.png');"></div>
-                                        <div class="content">
-                                            <ul class="post-date">
-                                                <li>
-                                                    Nov 29, 2024
-                                                </li>
-                                            </ul>
-                                            <h6>
-                                                <a href="news-details.php">
-                                                    Discover a better way of company.
-                                                </a>
-                                            </h6>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="footer-bottom">
-                    <div class="container">
-                        <div class="footer-wrapper d-flex align-items-center justify-content-between">
-                            <ul class="footer-menu wow fadeInUp" data-wow-delay=".2s">
-                                <li>
-                                    <a href="faq.php">
-                                        FAQs
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="about.php">
-                                        Company
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="contact.php">
-                                        Privacy
-                                    </a>
-                                </li>
-                            </ul>
-                            <a href="#" id="scrollUp" class="scroll-icon wow fadeInUp" data-wow-delay=".4s">
-                                <i class="far fa-angle-double-up"></i>
-                            </a>
-                            <p class="wow fadeInUp" data-wow-delay=".6s">
-                                © <a href="index.php">2024</a> All Rights Reserved
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
 
-<?php include './layouts/layoutBottom2.php'?>
+
+<?php include './layouts/layoutBottom3.php'?>
