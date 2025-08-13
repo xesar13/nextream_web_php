@@ -71,9 +71,9 @@
                                             <i class="fas fa-map-marker-alt"></i>
                                         </div>
                                         <div class="content">
-                                            <p>
-                                                55 Main Street, 2nd block <br>
-                                                Malborne, Australia
+                                              <p>
+                                                3906 E 4TH <br>
+                                                ST LONG BEACH, CA90814-1656
                                             </p>
                                         </div>
                                     </div>
