@@ -75,7 +75,7 @@
                                             <i class="fas fa-envelope"></i>
                                         </div>
                                         <div class="content">
-                                            <a href="mailto:info@example.com" class="link">info@example.com</a>
+                                            <a href="mailto:info@example.com" class="link">info@nextream.net</a>
                                         </div>
                                     </div>
                                     <div class="contact-items color-style-2">
@@ -83,7 +83,7 @@
                                             <i class="fas fa-phone-alt"></i>
                                         </div>
                                         <div class="content">
-                                            <h4><a href="tel:00012345688">+000 (123) 456 88</a></h4>
+                                            <h4><a href="tel:00012345688">+01 (123) 456 88</a></h4>
                                         </div>
                                     </div>
                                 </div>
