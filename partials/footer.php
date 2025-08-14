@@ -52,6 +52,11 @@
                                             Privacy & Setting
                                         </a>
                                     </li>
+                                        <li>
+                                        <a href="terms.php"> 
+                                            Terms and Conditions
+                                        </a>
+                                    </li>
                                     <li>
                                         <a href="pricing.php"> 
                                             Pricing Package
@@ -154,6 +159,11 @@
                                 <li>
                                     <a href="privacy.php">
                                         Privacy
+                                    </a>
+                                </li>
+                                  <li>
+                                    <a href="terms.php">
+                                         Terms and Conditions
                                     </a>
                                 </li>
                             </ul>

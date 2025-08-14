@@ -45,6 +45,11 @@
                                             Privacy & Setting
                                         </a>
                                     </li>
+                                     <li>
+                                        <a href="terms.php"> 
+                                            Terms and Conditions
+                                        </a>
+                                    </li>
                                     <li>
                                         <a href="pricing.php"> 
                                             Pricing Package
@@ -127,6 +132,11 @@
                                     Privacy
                                 </a>
                             </li>
+                             <li>
+                                        <a href="terms.php"> 
+                                            Terms and Conditions
+                                        </a>
+                                    </li>
                         </ul>
                         <a href="#" id="scrollUp" class="scroll-icon">
                             <i class="far fa-angle-double-up"></i>
